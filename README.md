@@ -1,3 +1,6 @@
-Taverna 3 command line tests
+# Moved to Apache Taverna
 
-This code was previously hosted at http://taverna.googlecode.com/svn/taverna/command-line-tests/
+This source code has moved to [Apache Taverna](http://taverna.incubator.apache.org/) 
+as part of the repository [incubator-taverna-commandline](https://github.com/apache/incubator-taverna-commandline)
+
+This repository is kept for historical reasons - see the tags and branches.
